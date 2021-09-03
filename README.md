@@ -17,8 +17,14 @@
 
 This Project is part of the NAID Mobile App Internship hosted and managed by Sprints concerning login form using linear layout.
 
+```
+The image on the right to show the layout after adjustment.
+```
+
 <p align="center">
   <img src="login.jpg" width="300" /> 
+  <img src="After Adjustment.png" width="300" /> 
+  
   
 </p>
 
