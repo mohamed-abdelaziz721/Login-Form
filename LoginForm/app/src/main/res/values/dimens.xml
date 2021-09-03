@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="button_width">160dp</dimen>
+    <dimen name="button_width">140dp</dimen>
     <dimen name="margin">20dp</dimen>
     <dimen name="padding_margin">10dp</dimen>
     <dimen name="text_size_medium">18sp</dimen>

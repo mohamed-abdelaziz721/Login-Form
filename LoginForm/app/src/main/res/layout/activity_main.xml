@@ -88,12 +88,13 @@
         android:layout_marginTop="@dimen/margin"
         android:layout_marginStart="@dimen/margin"
         android:layout_marginEnd="@dimen/margin"
-        android:gravity="center">
+        android:orientation="horizontal"
+        android:layout_gravity="center">
 
 
         <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/google_button"
-            android:layout_width="wrap_content"
+            android:layout_width="@dimen/button_width"
             android:layout_height="wrap_content"
             android:layout_marginStart="@dimen/margin"
             android:layout_marginEnd="@dimen/padding_margin"
@@ -106,7 +107,7 @@
 
         <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/facebook_button"
-            android:layout_width="wrap_content"
+            android:layout_width="@dimen/button_width"
             android:layout_height="wrap_content"
             android:layout_marginEnd="@dimen/margin"
             android:background="@drawable/solid"
